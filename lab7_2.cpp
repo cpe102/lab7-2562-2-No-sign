@@ -3,7 +3,7 @@
 #include<string>
 using namespace std;
 
- char findGrade(int x){
+ char findGrade(float x){
  	if(x>90){
  		return 'A';
 	 }
